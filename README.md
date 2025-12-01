@@ -11,7 +11,7 @@ import cv2
 import matplotlib.pyplot as plt
 ```
 ```
-img = cv2.imread('Dhanush.jpg',cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('charan.jpg',cv2.IMREAD_GRAYSCALE)
 ```
 ```
 blurred =cv2.GaussianBlur(img, (5,5),0)
